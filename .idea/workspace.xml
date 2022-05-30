@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5df1842f-62ef-4e5c-92f9-ac8abe19c301" name="Default Changelist" comment="knowledge">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/KnowledgeForum/my_knowledge_forum.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/KnowledgeForum/my_knowledge_forum.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/MYScreens/PatientQuestion.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/MYScreens/PatientQuestion.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/MYScreens/my_booked_appointment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/MYScreens/my_booked_appointment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/ProfileSettings/myclinicphotos.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/ProfileSettings/myclinicphotos.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/ProfileSettings/profile_setting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/ProfileSettings/profile_setting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/biometric_authenticate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/biometric_authenticate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/biometric_authenticate2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/biometric_authenticate2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/chats_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/chats_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/give_answer_answer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/give_answer_answer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controller/sign_in_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/controller/sign_in_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/general_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/general_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/question_description_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/question_description_model.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\user\.android\avd\Pixel_5_API_28.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22Pt6wGFKU6opIDDrGA0S3RGkGL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="D:/Nohung/Foodie_new" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\android\app" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\android" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\assets\video" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\android\app\src\main\res" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\assets\pngs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\lib\Screens" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\lib\Screens\KnowledgeForum" />
+      <recent name="C:\Users\user\Desktop\Github Projects\doctorWFH\android\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df1842f-62ef-4e5c-92f9-ac8abe19c301" name="Default Changelist" comment="" />
+      <created>1639750877571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639750877571</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Home">
+      <created>1641307325165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641307325165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Home">
+      <created>1641998727455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641998727455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes">
+      <created>1642514873144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642514873144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add review">
+      <created>1642598840554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642598840554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="view booking and agora id">
+      <created>1642686273581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642686273581</updated>
+    </task>
+    <task id="LOCAL-00006" summary="view booking and agora id">
+      <created>1643896730527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643896730527</updated>
+    </task>
+    <task id="LOCAL-00007" summary="home">
+      <created>1644242425675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644242425675</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home">
+      <created>1644847617428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644847617428</updated>
+    </task>
+    <task id="LOCAL-00009" summary="home">
+      <created>1644934679802</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644934679803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="nn">
+      <created>1645019548602</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645019548602</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chat">
+      <created>1645106522487</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645106522487</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chat">
+      <created>1645193966658</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645193966658</updated>
+    </task>
+    <task id="LOCAL-00013" summary="iOS">
+      <created>1645426265459</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645426265459</updated>
+    </task>
+    <task id="LOCAL-00014" summary="iOS">
+      <created>1645452283758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645452283758</updated>
+    </task>
+    <task id="LOCAL-00015" summary="iOS">
+      <created>1646228573704</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646228573704</updated>
+    </task>
+    <task id="LOCAL-00016" summary="iOS">
+      <created>1646230888953</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1646230888954</updated>
+    </task>
+    <task id="LOCAL-00017" summary="bottom">
+      <created>1646315523276</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1646315523276</updated>
+    </task>
+    <task id="LOCAL-00018" summary="bottom">
+      <created>1646315985538</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1646315985538</updated>
+    </task>
+    <task id="LOCAL-00019" summary="home">
+      <created>1646661679356</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1646661679356</updated>
+    </task>
+    <task id="LOCAL-00020" summary="home">
+      <created>1646834901650</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1646834901650</updated>
+    </task>
+    <task id="LOCAL-00021" summary="home">
+      <created>1649839258497</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649839258497</updated>
+    </task>
+    <task id="LOCAL-00022" summary="home">
+      <created>1650030218163</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1650030218163</updated>
+    </task>
+    <task id="LOCAL-00023" summary="home">
+      <created>1650637901278</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1650637901278</updated>
+    </task>
+    <task id="LOCAL-00024" summary="home">
+      <created>1651068461939</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1651068461939</updated>
+    </task>
+    <task id="LOCAL-00025" summary="home">
+      <created>1652079312998</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652079312998</updated>
+    </task>
+    <task id="LOCAL-00026" summary="home">
+      <created>1652108236928</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108236928</updated>
+    </task>
+    <task id="LOCAL-00027" summary="knowledge">
+      <created>1652189821025</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652189821025</updated>
+    </task>
+    <task id="LOCAL-00028" summary="knowledge">
+      <created>1652277392050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652277392050</updated>
+    </task>
+    <task id="LOCAL-00029" summary="knowledge">
+      <created>1652362320968</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1652362320968</updated>
+    </task>
+    <task id="LOCAL-00030" summary="knowledge">
+      <created>1653314249387</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1653314249387</updated>
+    </task>
+    <task id="LOCAL-00031" summary="knowledge">
+      <created>1653573842801</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1653573842801</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Home" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="add review" />
+    <MESSAGE value="view booking and agora id" />
+    <MESSAGE value="nn" />
+    <MESSAGE value="chat" />
+    <MESSAGE value="iOS" />
+    <MESSAGE value="bottom" />
+    <MESSAGE value="home" />
+    <MESSAGE value="knowledge" />
+    <option name="LAST_COMMIT_MESSAGE" value="knowledge" />
+  </component>
+</project>
